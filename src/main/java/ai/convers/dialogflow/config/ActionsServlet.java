@@ -3,7 +3,7 @@
  * All rights reserved.
  */
 
-package ai.convers.action.dialogflow.config;
+package ai.convers.dialogflow.config;
 
 import com.google.actions.api.App;
 import org.slf4j.Logger;

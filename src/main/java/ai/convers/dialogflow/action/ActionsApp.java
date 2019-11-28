@@ -3,7 +3,7 @@
  * All rights reserved.
  */
 
-package ai.convers.action.dialogflow.action;
+package ai.convers.dialogflow.action;
 
 import com.google.actions.api.ActionRequest;
 import com.google.actions.api.ActionResponse;
