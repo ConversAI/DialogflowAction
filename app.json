@@ -1,7 +1,6 @@
 {
-  "name": "DSSAction",
+  "name": "DialogflowAction",
   "description": "",
-  "repository": "https://github.com/iisresearch/DSSAction",
-  "keywords": ["FHNW"],
-  "addons": [ "heroku-postgresql" ]
+  "repository": "https://github.com/ConversAI/dialogflow-action",
+  "keywords": ["FHNW"]
 }
