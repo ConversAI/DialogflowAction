@@ -23,7 +23,7 @@ public class ActionsApp extends DialogflowApp {
     public ActionResponse welcome(ActionRequest request) {
         LOGGER.info("Welcome Intent -> start");
         ResponseBuilder responseBuilder = getResponseBuilder(request);
-        responseBuilder.add("Welcome to my app");
+        responseBuilder.add("Welcome to my app.");
         return responseBuilder.build();
     }
 
